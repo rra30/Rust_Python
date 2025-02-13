@@ -1,1 +1,9 @@
-#
+# 1. 파이썬 라이브러리 생성
+시작하기 앞서서 파이썬의 라이브러리를 만들때 러스트를 사용할 예정임으로   
+
+https://visualstudio.microsoft.com/ko/visual-cpp-build-tools/
+VSC 확장팩에서 "C++을 이용한 데스크톱 개발" 을 설치를 진행 해 주고   
+https://www.rust-lang.org/tools/install   
+에서 환경에 맞게 설치를 진행해 주면 된다.
+
+## 
